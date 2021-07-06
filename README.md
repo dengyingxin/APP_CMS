@@ -1,2 +1,3 @@
-[CMS的PAGE链接](https://dengyingxin.github.io/APP_CMS/#id=wsrpmr&p=%E5%B0%81%E9%9D%A2&g=1)
-[前端的仓库链接](https://github.com/dengyingxin/APP_Team)
+- 1.[CMS产品架构图链接](https://raw.githubusercontent.com/dengyingxin/APP_CMS/main/23.png)
+- 2.[CMS的PAGE链接](https://dengyingxin.github.io/APP_CMS/#id=wsrpmr&p=%E5%B0%81%E9%9D%A2&g=1)
+- 3.[前端的仓库链接](https://github.com/dengyingxin/APP_Team)
