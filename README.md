@@ -6,3 +6,4 @@
 ## PRD前端产品与CMS产品交互性
 -  PRD前端产品与CMS产品交互具有两个交互逻辑，详细见：
 -  1.[交互逻辑一](https://dengyingxin.github.io/APP_CMS/#id=8oxrjz&p=%E9%80%BB%E8%BE%911&g=1)
+-  2.[交互逻辑二](https://dengyingxin.github.io/APP_CMS/#id=htbusb&p=%E9%80%BB%E8%BE%912&g=1)
